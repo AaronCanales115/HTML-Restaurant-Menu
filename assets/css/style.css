@@ -55,11 +55,12 @@ nav a:hover {
 #banner {
     width: 100%;
     height: auto;
+    
     background-color: white;
 }
 
 #banner img {
-    width: 60%;
+    width: 25%;
     height: auto;
 }
 
